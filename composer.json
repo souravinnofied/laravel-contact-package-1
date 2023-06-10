@@ -1,0 +1,19 @@
+{
+    "name": "sourav/contact",
+    "description": "This will save contact information to database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rohan Das",
+            "email": "rohan.das@innofied.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+          "Innofied\\Contact\\": "src/"
+      }
+    }
+}
