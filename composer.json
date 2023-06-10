@@ -15,5 +15,12 @@
       "psr-4": {
           "Innofied\\Contact\\": "src/"
       }
+    },
+    "extra": {
+      "laravel": {
+          "providers": [
+              "Innofied\\Contact\\ContactServiceProvider"
+          ]
+      }
     }
 }
